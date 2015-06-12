@@ -1,0 +1,30 @@
+set nu
+set ruler
+colorscheme ron
+set visualbell
+set showcmd
+set incsearch
+set showcmd
+set laststatus=2
+set statusline=%f
+set statusline+=%m
+set statusline+=%=
+set statusline+=%c:
+set statusline+=%l:%L
+"set spell
+filetype on
+"filetype plugin on
+syntax enable
+set ignorecase
+set smartcase
+set hlsearch
+filetype indent on
+set autoindent
+set smartindent
+set smarttab
+set wrap
+set linebreak
+set listchars=tab:»-,trail:·,eol:$,extends:»,precedes:«
+set expandtab
+set tabstop=2
+set shiftwidth=2
